@@ -1,5 +1,34 @@
 [
     {
+        "timestamp": "7/12/2026, 4:56:59 PM",
+        "ip": "180.191.23.157",
+        "ip_version": "IPv4",
+        "continent": "AS",
+        "country": "Philippines",
+        "country_code2": "PH",
+        "country_code3": "PHL",
+        "country_capital": "Manila",
+        "region": "Central Luzon",
+        "region_code": "3",
+        "city": "Guyong",
+        "postal_code": "3022",
+        "latitude": 14.8241,
+        "longitude": 120.9846,
+        "maps_link": "https://www.google.com/maps?q=14.8241,120.9846",
+        "timezone": "Asia/Manila",
+        "utc_offset": "+0800",
+        "in_eu": "NO",
+        "isp": "Globe Telecom Inc.",
+        "network_id": "AS132199",
+        "calling_code": "+63",
+        "currency": "Peso (PHP)",
+        "languages": "tl,en-PH,fil,ceb,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",
+        "platform": "Linux armv81",
+        "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
+        "screen": "393�895",
+        "online": "YES"
+    },
+    {
         "timestamp": "7/12/2026, 4:51:01 PM",
         "ip": "124.217.75.99",
         "ip_version": "IPv4",
@@ -25,7 +54,7 @@
         "languages": "tl,en-PH,fil,ceb,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",
         "platform": "Linux armv81",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-        "screen": "360�806",
+        "screen": "360×806",
         "online": "YES"
     },
     {
@@ -54,7 +83,7 @@
         "languages": "tl,en-PH,fil,ceb,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",
         "platform": "Linux aarch64",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7827.160 Mobile Safari/537.36",
-        "screen": "360×806",
+        "screen": "360Ã—806",
         "online": "YES"
     },
     {
@@ -83,7 +112,7 @@
         "languages": "tl,en-PH,fil,ceb,ilo,hil,war,pam,bik,bcl,pag,mrw,tsg,mdh,cbk,krj,sgd,msb,akl,ibg,yka,mta,abx",
         "platform": "Linux armv81",
         "user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Mobile Safari/537.36",
-        "screen": "360Ã—806",
+        "screen": "360Ãƒâ€”806",
         "online": "YES"
     },
     {
@@ -112,7 +141,7 @@
         "languages": "en-US,es-US,haw,fr",
         "platform": "Linux x86_64",
         "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/141.0.7390.0 Safari/537.36",
-        "screen": "800Ãƒâ€”600",
+        "screen": "800ÃƒÆ’Ã¢â‚¬â€600",
         "online": "YES"
     },
     {
@@ -141,7 +170,7 @@
         "languages": "fil,en",
         "platform": "Android 13",
         "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
-        "screen": "1080ÃƒÆ’Ã¢â‚¬â€2340",
+        "screen": "1080ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã¢â‚¬Â2340",
         "online": "YES"
     }
 ]
