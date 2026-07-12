@@ -1,0 +1,31 @@
+[
+    {
+        "timestamp": "Jul 12, 2026, 2:40:15 PM",
+        "ip": "123.45.67.89",
+        "ip_version": "IPv4",
+        "continent": "AS",
+        "country": "Philippines",
+        "country_code2": "PH",
+        "country_code3": "PHL",
+        "country_capital": "Manila",
+        "region": "Central Luzon",
+        "region_code": "03",
+        "city": "Tarlac City",
+        "postal_code": "2300",
+        "latitude": "15.4822",
+        "longitude": "120.5912",
+        "maps_link": "https://www.google.com/maps?q=15.4822,120.5912",
+        "timezone": "Asia/Manila",
+        "utc_offset": "+0800",
+        "in_eu": "NO",
+        "isp": "PLDT INC.",
+        "network_id": "AS9299",
+        "calling_code": "+63",
+        "currency": "Philippine Peso (PHP)",
+        "languages": "fil,en",
+        "platform": "Android 13",
+        "user_agent": "Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+        "screen": "1080×2340",
+        "online": "YES"
+    }
+]
